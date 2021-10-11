@@ -1,1 +1,3 @@
-# PLDAC2021_Spam_Reviews_Detection
+# Spam Reviews Detection
+
+An interactive platform for spam reviews detection on Amazon data.
