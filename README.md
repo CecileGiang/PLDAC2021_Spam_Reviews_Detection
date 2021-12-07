@@ -30,6 +30,6 @@ sim_threshold = tp.similarity_threshold(threshold=0)
 sum_sim_threshold = tp.overall_threshold(threshold=6)
 ```
 
-**Command line for creating a reviews worpus**
+**Command line for creating a reviews corpus**
 
 `corpus = create_corpus(data, fields, id_prods, month_min, month_max)`
